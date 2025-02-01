@@ -1,6 +1,6 @@
 # Installation
 
-`git clone https://github.com/blackhatethicalhacking/DDoSlayer.git`
+`git clone https://github.com/NotGamerPratham/DDOS.git`
 
 `cd DDoSlayer`
 
