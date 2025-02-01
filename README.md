@@ -2,11 +2,11 @@
 
 `git clone https://github.com/NotGamerPratham/DDOS.git`
 
-`cd DDoSlayer`
+`cd DDOS`
 
-`chmod +x DDoSlayer.py`
+`chmod +x DDOS.py`
 
-`python3 DDoSlayer.py`
+`python3 DDOS.py`
 
 
 # Instructions
